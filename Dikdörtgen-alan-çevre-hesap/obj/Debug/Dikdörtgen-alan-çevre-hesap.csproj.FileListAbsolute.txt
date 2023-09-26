@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\bin\Debug\Dikdörtgen-alan-çevre-hesap.exe.config
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\bin\Debug\Dikdörtgen-alan-çevre-hesap.exe
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\bin\Debug\Dikdörtgen-alan-çevre-hesap.pdb
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\obj\Debug\Dikdörtgen-alan-çevre-hesap.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\obj\Debug\Dikdörtgen-alan-çevre-hesap.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\obj\Debug\Dikdörtgen_alan_çevre_hesap.Form1.resources
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\obj\Debug\Dikdörtgen_alan_çevre_hesap.Properties.Resources.resources
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\obj\Debug\Dikdörtgen-alan-çevre-hesap.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\obj\Debug\Dikdörtgen-alan-çevre-hesap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\obj\Debug\Dikdörtgen-alan-çevre-hesap.exe
+C:\Users\User\Desktop\Rukiye\Dikdörtgen-alan-çevre-hesap\Dikdörtgen-alan-çevre-hesap\obj\Debug\Dikdörtgen-alan-çevre-hesap.pdb
